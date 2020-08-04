@@ -2,41 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://xrrain.github.io/about/index.html</loc>
-    
-    <lastmod>2020-07-14T11:00:21.346Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xrrain.github.io/tags/index.html</loc>
-    
-    <lastmod>2020-07-14T10:29:05.348Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xrrain.github.io/categories/index.html</loc>
-    
-    <lastmod>2020-07-14T10:29:05.347Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xrrain.github.io/message/index.html</loc>
-    
-    <lastmod>2020-07-14T10:29:05.347Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xrrain.github.io/schedule/index.html</loc>
-    
-    <lastmod>2020-07-14T10:29:05.347Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://xrrain.github.io/2020/07/14/hello-world/</loc>
     
     <lastmod>2020-07-14T10:29:05.346Z</lastmod>
@@ -46,14 +11,147 @@
   <url>
     <loc>https://xrrain.github.io/404/index.html</loc>
     
-    <lastmod>2020-07-14T10:29:05.346Z</lastmod>
+    <lastmod>2019-07-14T02:48:12.482Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xrrain.github.io/schedule/index.html</loc>
+    
+    <lastmod>2019-07-14T02:48:00.199Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://xrrain.github.io/archives/index.html</loc>
     
-    <lastmod>2020-07-14T10:29:05.346Z</lastmod>
+    <lastmod>2019-07-14T02:47:39.387Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xrrain.github.io/categories/index.html</loc>
+    
+    <lastmod>2019-07-14T02:47:20.913Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xrrain.github.io/tags/index.html</loc>
+    
+    <lastmod>2019-07-14T02:47:08.773Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xrrain.github.io/message/index.html</loc>
+    
+    <lastmod>2019-07-14T02:46:52.014Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xrrain.github.io/about/index.html</loc>
+    
+    <lastmod>2019-07-14T02:44:27.970Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xrrain.github.io/categories/%E9%9A%8F%E7%AC%94/index.html</loc>
+    
+    <lastmod>2019-07-12T11:11:21.927Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xrrain.github.io/categories/index.html</loc>
+    
+    <lastmod>2019-07-12T11:11:21.926Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xrrain.github.io/categories/Learning/index.html</loc>
+    
+    <lastmod>2019-07-12T11:11:21.925Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xrrain.github.io/categories/Learning/Miscellaneous/index.html</loc>
+    
+    <lastmod>2019-07-12T11:11:21.924Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xrrain.github.io/archives/index.html</loc>
+    
+    <lastmod>2019-07-12T11:11:21.923Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xrrain.github.io/archives/2018/index.html</loc>
+    
+    <lastmod>2019-07-12T11:11:21.922Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xrrain.github.io/archives/2018/06/index.html</loc>
+    
+    <lastmod>2019-07-12T11:11:21.921Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xrrain.github.io/archives/2018/05/index.html</loc>
+    
+    <lastmod>2019-07-12T11:11:21.920Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xrrain.github.io/archives/2017/index.html</loc>
+    
+    <lastmod>2019-07-12T11:11:21.919Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xrrain.github.io/archives/2017/11/index.html</loc>
+    
+    <lastmod>2019-07-12T11:11:21.918Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xrrain.github.io/about/index.html</loc>
+    
+    <lastmod>2019-07-12T11:11:21.917Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xrrain.github.io/2018/06/01/use-gcc-to-run-openmp-in-windwos/index.html</loc>
+    
+    <lastmod>2019-07-12T11:11:21.916Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xrrain.github.io/2018/05/30/%E9%81%87%E8%A7%81%E4%B8%80%E4%B8%AA%E5%90%88%E9%80%82%E4%B8%94%E9%95%BF%E4%B9%85%E7%9A%84%E4%BA%BA%E6%9C%89%E5%A4%9A%E9%9A%BE/index.html</loc>
+    
+    <lastmod>2019-07-12T11:11:21.904Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xrrain.github.io/2017/11/01/the-first/index.html</loc>
+    
+    <lastmod>2019-07-12T11:11:21.902Z</lastmod>
     
   </url>
   
