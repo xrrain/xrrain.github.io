@@ -7,6 +7,9 @@ date: 2019-07-14 10:44:27
 
 * a student majoring in Computer Science
 * Bachelar, 2015-2019, Nanjing University of Science and Technology
-* Master, 2019-, ShanghaiTech University
+* Master, 2019-, ShanghaiTech University, Graph Neural Network
 
-One person like freedom.
+# Self
+好读书，不求甚解
+
+小小心灵，眺望世界
