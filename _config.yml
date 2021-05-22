@@ -6,7 +6,7 @@
 title: xrrain is here
 subtitle: see world, say hello world
 description:  CS, student, life
-keywords: blog, recording, CS, learning
+keywords: blog, recording, CS, learning, hello xrrain
 author: xrrain
 language: en
 timezone: Asia/Shanghai
@@ -33,7 +33,9 @@ new_post_name: :title.md # File name of new posts
 default_layout: post
 auto_spacing: true
 titlecase: false # Transform title into titlecase
-external_link: true # Open external links in new tab
+# Open external links in new tab
+external_link:
+  enable: true
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
@@ -87,13 +89,14 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
+# theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo: git@github.com:xrrain/xrrain.github.io.git
-  branch: master
+  branch: main
 
 # hexo sitemap
 sitemap:
@@ -105,8 +108,16 @@ baidusitemap:
 algolia:
   applicationID: 44SPEIW8B8
   indexName: hexo-blog
+  apiKey: "7344ea35b5b4c6e9ad16c336544aed65"
   chunkSize: 5000
 
-auto_dir_categorize:
-    enable: true  # options:true, false; default is true
-    force: false # options:true, false; default is false
+auto_category:
+  enable: true
+  depth: 
+
+leancloud_counter_security:
+  enable_sync: true
+  app_id: iaOaVUVk0BVp8dw6Xi4HG9Xj-gzGzoHsz
+  app_key: WKuHkS3ffFhbgsfcifkdw0nO
+  username: <your username> # Will be asked while deploying if is left blank
+  password: <your password> # Recommmended to be left blank. Will be asked while deploying if is left blank
